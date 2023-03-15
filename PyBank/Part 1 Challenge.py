@@ -91,4 +91,4 @@ with open (text_output_file, "w") as f:
     )
 
     #Print that analysis is completed to notify the user
-    print(f"The analysis of the company's financial data is now completed.")
+    print(f"Company's financial data analysis is now completed.")
